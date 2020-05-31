@@ -4,13 +4,7 @@ import { Row, Col } from 'antd';
 import { Typography } from 'antd';
 
 const { Title } = Typography;
-
-const formStyle = {
-    margin: 40,
-    align: 'center',
-  };
   
-
 const Login = () => {
     return (
         <>
